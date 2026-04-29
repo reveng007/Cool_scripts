@@ -2,8 +2,8 @@
 Just for Fun and experimenting
 
 1. Toast Notification for Teams to capture Creds - [Powershell Version]()
-  - Reads `teams.ico` from current directory to render.
-  - Exfiltrates Creds over GET request.
+    - Reads `teams.ico` from current directory to render.
+    - Exfiltrates Creds over GET request.
 
 
 
