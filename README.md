@@ -1,11 +1,11 @@
 # Cool_scripts
 Just for Fun and experimenting
 
-## 1. Toast Notification for Teams to capture Creds - [Powershell Version]()
+### 1. Toast Notification for Teams to capture Creds - [Powershell Version](https://github.com/reveng007/Cool_scripts/tree/main/ToastNotif-Powershell)
 - Reads `teams.ico` from current directory to render.
 - Exfiltrates Creds over GET request.
 
-### Outcome:
+#### Outcome:
 
 <details><summary>See Details</summary>
 
@@ -17,7 +17,7 @@ Just for Fun and experimenting
 
 </details>
 
-## 2. Toast Notification for Teams to capture Creds - [Cpp Version]()
+### 2. Toast Notification for Teams to capture Creds - [Cpp Version]()
 
 
 # Resources:
