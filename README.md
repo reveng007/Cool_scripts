@@ -1,4 +1,5 @@
-# Cool_scripts
+# ToastCreds
+
 Just for Fun and experimenting
 
 ### 1. Toast Notification for Teams to capture Creds - [Powershell Version](https://github.com/reveng007/Cool_scripts/tree/main/ToastNotif-Powershell)
