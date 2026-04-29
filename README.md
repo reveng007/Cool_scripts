@@ -17,7 +17,21 @@ Just for Fun and experimenting
 
 </details>
 
-### 2. Toast Notification for Teams to capture Creds - [Cpp Version]()
+### 2. Toast Notification for Teams to capture Creds - [Cpp Version](https://github.com/reveng007/Cool_scripts/tree/main/ToastNotif-Cpp)
+- Reads `teams.ico` from current directory to render.
+- Exfiltrates Creds over GET request.
+
+#### Outcome:
+
+<details><summary>See Details</summary>
+
+![alt text](https://raw.githubusercontent.com/reveng007/Cool_scripts/refs/heads/main/images/Cpp_popup1.png)
+
+![alt text](https://raw.githubusercontent.com/reveng007/Cool_scripts/refs/heads/main/images/Cpp_popup2.png)
+
+![alt text](https://raw.githubusercontent.com/reveng007/Cool_scripts/refs/heads/main/images/Cpp_popup3.png)
+
+</details>
 
 
 # Resources:
