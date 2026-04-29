@@ -7,11 +7,17 @@ Just for Fun and experimenting
 
 ### Outcome:
 
+<details><summary>See Details</summary>
+
 ![alt text](https://raw.githubusercontent.com/reveng007/Cool_scripts/refs/heads/main/images/powershell_toast-1.png)
 
 ![alt text](https://raw.githubusercontent.com/reveng007/Cool_scripts/refs/heads/main/images/powershell_toast-2.png)
 
 ![alt text](https://raw.githubusercontent.com/reveng007/Cool_scripts/refs/heads/main/images/powershell_toast-3.png)
+
+</details>
+
+## 2. Toast Notification for Teams to capture Creds - [Cpp Version]()
 
 
 # Resources:
